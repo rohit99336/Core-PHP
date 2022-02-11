@@ -30,3 +30,10 @@
    * indexing array
    * associative array
    * multidimesinal array
+
+## Useful array functions
+
+1. in_array() : This function check whether a given value exists in an array or not.
+2. range() : This function creates an array containing a range of elements.
+3. array_unique() : The array_unique() function removes duplicate values from an array.
+4. array_slice() : The array_slice() is an inbuilt function of PHP and is used to fetch a part of an array by slicing through it, according to the users choice.
