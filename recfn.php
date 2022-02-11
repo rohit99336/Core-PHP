@@ -3,7 +3,7 @@ function demo($n){
     //Recursive function means function by self
     if($n<=5)
     {
-        echo $n.'<br>';
+        echo $n.'<br>' ;
         demo($n+1);
     }
 }
