@@ -1,5 +1,11 @@
 # Core-PHP
 
+Learn php basic to advance follow the official **[Documetion](https://www.php.net/manual/en/langref.php)**.
+
+links for learn PHP -
+
+* **[php-tutorial](https://www.phptutorial.net/)**
+
 ## Difference between echo and print
 
 ## Echo
@@ -30,6 +36,15 @@
    * indexing array
    * associative array
    * multidimesinal array
+
+## Oops के Concepts - (types) इस प्रकार है-
+
+1. Class
+2. Object
+3. Inheritance
+4. Abstraction
+5. Encapsulation
+6. Polymorphism
 
 ## Useful array functions
 

@@ -1,4 +1,7 @@
 <?php  
+
+
+//refrence by => https://www.php.net/manual/en/language.oop5.decon.php
 class SPAC  
 {  
     public $a = "Rohit kumar";
