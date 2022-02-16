@@ -4,14 +4,15 @@
  
 class MyDestructableClass 
 {
-    function __construct() {
-        print "In constructor <br>";
-    }
 
     function __destruct() {
         print "Destroying " . __CLASS__ . "<br>";
     }
 
+    function __construct() {
+        print "In constructor <br>";
+    }
+ 
     public function message(){
         echo "message for clients <br>";
     }

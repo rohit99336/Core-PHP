@@ -5,6 +5,7 @@ Learn php basic to advance follow the official **[Documetion](https://www.php.ne
 links for learn PHP -
 
 * **[php-tutorial](https://www.phptutorial.net/)**
+* **[php-Hindi-tutorial](https://hindimepadhai.com/php/abstract-classes//)**
 
 ## Difference between echo and print
 
@@ -52,3 +53,14 @@ links for learn PHP -
 2. range() : This function creates an array containing a range of elements.
 3. array_unique() : The array_unique() function removes duplicate values from an array.
 4. array_slice() : The array_slice() is an inbuilt function of PHP and is used to fetch a part of an array by slicing through it, according to the users choice.
+
+## इस प्रोजेक्ट में शामिल किये गए OOP's के Topics निम्न है-
+
+1. Class
+2. Object
+3. Inheritance
+4. Abstraction
+5. Interface
+6. Encapsulation
+7. Cunstractor
+8. Destructor
