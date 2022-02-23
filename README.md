@@ -1,4 +1,4 @@
-# Core-PHP
+# Core-PHP & OOP's Concepts
 
 Learn php basic to advance follow the official **[Documetion](https://www.php.net/manual/en/langref.php)**.
 
@@ -6,10 +6,11 @@ links for learn PHP -
 
 * **[php-tutorial](https://www.phptutorial.net/)**
 * **[php-Hindi-tutorial](https://hindimepadhai.com/php/abstract-classes//)**
+* **[php-in-Hindi (1st prefere)](https://www.learnhindituts.com/php/php-traits-in-hindi)**
 
 ## Difference between echo and print
 
-## Echo
+### Echo
 
 1. echo is a statement, which is used  to display the output.
 2. echo can be used with or without parentheses.
@@ -17,7 +18,7 @@ links for learn PHP -
 4. We can pass multiple strings separated by comma (,) in echo.
 5. echo is faster than print statement.
 
-## print
+### print
 
 1. print is also a statement, used as an alternative to echo at many times to display the output.
 2. print can be used with or without parentheses.
