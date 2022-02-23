@@ -7,6 +7,12 @@ links for learn PHP -
 * **[php-tutorial](https://www.phptutorial.net/)**
 * **[php-Hindi-tutorial](https://hindimepadhai.com/php/abstract-classes//)**
 * **[php-in-Hindi (1st prefere)](https://www.learnhindituts.com/php/php-traits-in-hindi)**
+* **[php-hindi-bccfalana](https://www.bccfalna.com/category/core-php-in-hindi/)**
+* **[php hindi in javasite](https://javahindi.com/2021/06/09/php-namespaces-in-hindi/)**
+* **[Advance javascript in hindi](https://www.bccfalna.com/category/advance-javascript-in-hindi/)**
+* **[Data-structure-in-hindi](https://www.bccfalna.com/category/data-structure-in-hindi/)**
+* **[Jquery in hindi](https://www.bccfalna.com/category/jquery-in-hindi/)**
+* **[Free Ebook Download Site](https://1lib.in/)**
 
 ## Difference between echo and print
 
