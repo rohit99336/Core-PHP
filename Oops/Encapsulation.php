@@ -40,4 +40,3 @@ echo $obj->getdata();   //all variable accesable and getaded througth accessor f
 
 $obj->setdata('SUMSUNG','60','LED'); //
 $obj->message();
-?>
