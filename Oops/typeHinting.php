@@ -22,3 +22,5 @@ $obj1 = new ABC();
 $obj2 = new XYZ();
 
 Test($obj2);
+
+
