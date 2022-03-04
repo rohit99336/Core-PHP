@@ -1,7 +1,5 @@
 ## C Precedence And Associativity Of Operators
 
-              
-              
 <p class="editor-contents__short-description">In this tutorial, you'll learn about the precedence and associativity of operators with the help of examples.</p>
 
 <h2 id="precedence">Precedence of operators</h2>
@@ -13,13 +11,14 @@
 <pre>
 <code>int x = 5 - 17* 6;</code></pre>
 
-<p>In C, the precedence of <code>*</code> is higher than <code>-</code> and <code>=</code>. Hence, <code>17 * 6</code> is evaluated first. Then the expression involving <code>-</code> is evaluated as the precedence of <code>-</code> is higher than that of <code>=</code>.</p>
+<p>In C, the precedence of <code>*</code> is higher than <code>-</code> and <code>=</code>. Hence, <code>17* 6</code> is evaluated first. Then the expression involving <code>-</code> is evaluated as the precedence of <code>-</code> is higher than that of <code>=</code>.</p>
 
 <p>Here's a table of operators precedence from higher to lower. The property of <strong>associativity</strong> will be discussed shortly.</p><br>
 
 <hr><h3 id="table">Operators Precedence &amp; Associativity Table</h3>
 
-<table>
+<center>
+<table style="align:center">
         <tr>
             <th>Operator</th>
             <th>Meaning of operator</th>
@@ -104,7 +103,9 @@
             <td>Separator of expressions</td>
             <td>Left to right</td>
         </tr>
-    </table><br><br>
+    </table>
+</center>  
+<br><br>
 
 <hr><h2 id="associativity" style="margin-top:10px">Associativity of Operators</h2>
 
@@ -114,7 +115,6 @@
 <code>b = a;</code></pre>
 
 <p>Here, the value of <var>a</var> is assigned to <var>b</var>, and not the other way around. It's because the associativity of the <code>=</code> operator is from right to left.</p>
-
 
 <div class="clearfix"></div>
 <p>Also, if two operators of the same precedence (priority) are present, associativity determines the direction in
